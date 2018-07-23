@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51335" started-at="2018-07-23T13:55:33Z" finished-at="2018-07-23T13:56:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51335" started-at="2018-07-23T13:55:33Z" finished-at="2018-07-23T13:56:24Z">
+      <class name="com.qa.test.TestAmazonUser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="setUp" is-config="true" duration-ms="19633" started-at="2018-07-23T13:55:34Z" finished-at="2018-07-23T13:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ExcelTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="ExcelTest" duration-ms="5159" started-at="2018-07-23T13:55:54Z" data-provider="DataExcel" finished-at="2018-07-23T13:55:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhiva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9442772472test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dhiva@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="tearDown" is-config="true" duration-ms="1117" started-at="2018-07-23T13:55:59Z" finished-at="2018-07-23T13:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="setUp" is-config="true" duration-ms="10768" started-at="2018-07-23T13:56:00Z" finished-at="2018-07-23T13:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ExcelTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="ExcelTest" duration-ms="1988" started-at="2018-07-23T13:56:11Z" data-provider="DataExcel" finished-at="2018-07-23T13:56:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8.66805856E9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[poiuy@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[zxcvbnm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="tearDown" is-config="true" duration-ms="689" started-at="2018-07-23T13:56:13Z" finished-at="2018-07-23T13:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="setUp" is-config="true" duration-ms="7721" started-at="2018-07-23T13:56:14Z" finished-at="2018-07-23T13:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ExcelTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="ExcelTest" duration-ms="2157" started-at="2018-07-23T13:56:21Z" data-provider="DataExcel" finished-at="2018-07-23T13:56:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[naveen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test@gmai.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mnbvc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.TestAmazonUser@27c20538]" name="tearDown" is-config="true" duration-ms="738" started-at="2018-07-23T13:56:24Z" finished-at="2018-07-23T13:56:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.TestAmazonUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
